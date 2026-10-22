@@ -1,0 +1,505 @@
+order_date,location,product,category,units_sold,unit_price_eur,revenue_eur
+2026-10-01,Main Street,Sourdough Loaf,Bread,26,7.50,195.00
+2026-10-01,Main Street,Butter Croissant,Pastry,47,3.20,150.40
+2026-10-01,Main Street,Almond Croissant,Pastry,31,3.90,120.90
+2026-10-01,Main Street,Cinnamon Bun,Pastry,37,3.60,133.20
+2026-10-01,Main Street,Blueberry Muffin,Pastry,22,3.20,70.40
+2026-10-01,Main Street,Cappuccino,Coffee,75,3.80,285.00
+2026-10-01,Main Street,Oat Latte,Coffee,44,4.40,193.60
+2026-10-01,Main Street,Pumpkin Spice Latte,Coffee,20,4.90,98.00
+2026-10-01,Harbor,Sourdough Loaf,Bread,23,7.50,172.50
+2026-10-01,Harbor,Butter Croissant,Pastry,52,3.20,166.40
+2026-10-01,Harbor,Almond Croissant,Pastry,22,3.90,85.80
+2026-10-01,Harbor,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-01,Harbor,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-01,Harbor,Cappuccino,Coffee,65,3.80,247.00
+2026-10-01,Harbor,Oat Latte,Coffee,41,4.40,180.40
+2026-10-01,Harbor,Pumpkin Spice Latte,Coffee,18,4.90,88.20
+2026-10-01,Station,Sourdough Loaf,Bread,28,7.50,210.00
+2026-10-01,Station,Butter Croissant,Pastry,52,3.20,166.40
+2026-10-01,Station,Almond Croissant,Pastry,26,3.90,101.40
+2026-10-01,Station,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-01,Station,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-01,Station,Cappuccino,Coffee,53,3.80,201.40
+2026-10-01,Station,Oat Latte,Coffee,30,4.40,132.00
+2026-10-01,Station,Pumpkin Spice Latte,Coffee,80,4.90,392.00
+2026-10-02,Main Street,Sourdough Loaf,Bread,26,7.50,195.00
+2026-10-02,Main Street,Butter Croissant,Pastry,62,3.20,198.40
+2026-10-02,Main Street,Almond Croissant,Pastry,33,3.90,128.70
+2026-10-02,Main Street,Cinnamon Bun,Pastry,39,3.60,140.40
+2026-10-02,Main Street,Blueberry Muffin,Pastry,26,3.20,83.20
+2026-10-02,Main Street,Cappuccino,Coffee,68,3.80,258.40
+2026-10-02,Main Street,Oat Latte,Coffee,45,4.40,198.00
+2026-10-02,Main Street,Pumpkin Spice Latte,Coffee,25,4.90,122.50
+2026-10-02,Harbor,Sourdough Loaf,Bread,29,7.50,217.50
+2026-10-02,Harbor,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-02,Harbor,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-02,Harbor,Cinnamon Bun,Pastry,28,3.60,100.80
+2026-10-02,Harbor,Blueberry Muffin,Pastry,21,3.20,67.20
+2026-10-02,Harbor,Cappuccino,Coffee,53,3.80,201.40
+2026-10-02,Harbor,Oat Latte,Coffee,37,4.40,162.80
+2026-10-02,Harbor,Pumpkin Spice Latte,Coffee,20,4.90,98.00
+2026-10-02,Station,Sourdough Loaf,Bread,27,7.50,202.50
+2026-10-02,Station,Butter Croissant,Pastry,55,3.20,176.00
+2026-10-02,Station,Almond Croissant,Pastry,25,3.90,97.50
+2026-10-02,Station,Cinnamon Bun,Pastry,33,3.60,118.80
+2026-10-02,Station,Blueberry Muffin,Pastry,25,3.20,80.00
+2026-10-02,Station,Cappuccino,Coffee,57,3.80,216.60
+2026-10-02,Station,Oat Latte,Coffee,33,4.40,145.20
+2026-10-02,Station,Pumpkin Spice Latte,Coffee,97,4.90,475.30
+2026-10-03,Main Street,Sourdough Loaf,Bread,41,7.50,307.50
+2026-10-03,Main Street,Butter Croissant,Pastry,66,3.20,211.20
+2026-10-03,Main Street,Almond Croissant,Pastry,37,3.90,144.30
+2026-10-03,Main Street,Cinnamon Bun,Pastry,43,3.60,154.80
+2026-10-03,Main Street,Blueberry Muffin,Pastry,35,3.20,112.00
+2026-10-03,Main Street,Cappuccino,Coffee,106,3.80,402.80
+2026-10-03,Main Street,Oat Latte,Coffee,67,4.40,294.80
+2026-10-03,Main Street,Pumpkin Spice Latte,Coffee,26,4.90,127.40
+2026-10-03,Harbor,Sourdough Loaf,Bread,18,7.50,135.00
+2026-10-03,Harbor,Butter Croissant,Pastry,29,3.20,92.80
+2026-10-03,Harbor,Almond Croissant,Pastry,16,3.90,62.40
+2026-10-03,Harbor,Cinnamon Bun,Pastry,21,3.60,75.60
+2026-10-03,Harbor,Blueberry Muffin,Pastry,15,3.20,48.00
+2026-10-03,Harbor,Cappuccino,Coffee,45,3.80,171.00
+2026-10-03,Harbor,Oat Latte,Coffee,23,4.40,101.20
+2026-10-03,Harbor,Pumpkin Spice Latte,Coffee,14,4.90,68.60
+2026-10-03,Station,Sourdough Loaf,Bread,23,7.50,172.50
+2026-10-03,Station,Butter Croissant,Pastry,40,3.20,128.00
+2026-10-03,Station,Almond Croissant,Pastry,21,3.90,81.90
+2026-10-03,Station,Cinnamon Bun,Pastry,28,3.60,100.80
+2026-10-03,Station,Blueberry Muffin,Pastry,17,3.20,54.40
+2026-10-03,Station,Cappuccino,Coffee,46,3.80,174.80
+2026-10-03,Station,Oat Latte,Coffee,22,4.40,96.80
+2026-10-03,Station,Pumpkin Spice Latte,Coffee,77,4.90,377.30
+2026-10-04,Main Street,Sourdough Loaf,Bread,46,7.50,345.00
+2026-10-04,Main Street,Butter Croissant,Pastry,66,3.20,211.20
+2026-10-04,Main Street,Almond Croissant,Pastry,47,3.90,183.30
+2026-10-04,Main Street,Cinnamon Bun,Pastry,47,3.60,169.20
+2026-10-04,Main Street,Blueberry Muffin,Pastry,31,3.20,99.20
+2026-10-04,Main Street,Cappuccino,Coffee,97,3.80,368.60
+2026-10-04,Main Street,Oat Latte,Coffee,55,4.40,242.00
+2026-10-04,Main Street,Pumpkin Spice Latte,Coffee,33,4.90,161.70
+2026-10-04,Harbor,Sourdough Loaf,Bread,35,7.50,262.50
+2026-10-04,Harbor,Butter Croissant,Pastry,68,3.20,217.60
+2026-10-04,Harbor,Almond Croissant,Pastry,33,3.90,128.70
+2026-10-04,Harbor,Cinnamon Bun,Pastry,41,3.60,147.60
+2026-10-04,Harbor,Blueberry Muffin,Pastry,27,3.20,86.40
+2026-10-04,Harbor,Cappuccino,Coffee,75,3.80,285.00
+2026-10-04,Harbor,Oat Latte,Coffee,52,4.40,228.80
+2026-10-04,Harbor,Pumpkin Spice Latte,Coffee,25,4.90,122.50
+2026-10-04,Station,Sourdough Loaf,Bread,19,7.50,142.50
+2026-10-04,Station,Butter Croissant,Pastry,45,3.20,144.00
+2026-10-04,Station,Almond Croissant,Pastry,21,3.90,81.90
+2026-10-04,Station,Cinnamon Bun,Pastry,28,3.60,100.80
+2026-10-04,Station,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-04,Station,Cappuccino,Coffee,39,3.80,148.20
+2026-10-04,Station,Oat Latte,Coffee,25,4.40,110.00
+2026-10-04,Station,Pumpkin Spice Latte,Coffee,70,4.90,343.00
+2026-10-05,Main Street,Sourdough Loaf,Bread,27,7.50,202.50
+2026-10-05,Main Street,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-05,Main Street,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-05,Main Street,Cinnamon Bun,Pastry,40,3.60,144.00
+2026-10-05,Main Street,Blueberry Muffin,Pastry,26,3.20,83.20
+2026-10-05,Main Street,Cappuccino,Coffee,68,3.80,258.40
+2026-10-05,Main Street,Oat Latte,Coffee,40,4.40,176.00
+2026-10-05,Main Street,Pumpkin Spice Latte,Coffee,21,4.90,102.90
+2026-10-05,Harbor,Sourdough Loaf,Bread,25,7.50,187.50
+2026-10-05,Harbor,Butter Croissant,Pastry,51,3.20,163.20
+2026-10-05,Harbor,Almond Croissant,Pastry,25,3.90,97.50
+2026-10-05,Harbor,Cinnamon Bun,Pastry,31,3.60,111.60
+2026-10-05,Harbor,Blueberry Muffin,Pastry,22,3.20,70.40
+2026-10-05,Harbor,Cappuccino,Coffee,55,3.80,209.00
+2026-10-05,Harbor,Oat Latte,Coffee,42,4.40,184.80
+2026-10-05,Harbor,Pumpkin Spice Latte,Coffee,21,4.90,102.90
+2026-10-05,Station,Sourdough Loaf,Bread,28,7.50,210.00
+2026-10-05,Station,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-05,Station,Almond Croissant,Pastry,24,3.90,93.60
+2026-10-05,Station,Cinnamon Bun,Pastry,34,3.60,122.40
+2026-10-05,Station,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-05,Station,Cappuccino,Coffee,54,3.80,205.20
+2026-10-05,Station,Oat Latte,Coffee,32,4.40,140.80
+2026-10-05,Station,Pumpkin Spice Latte,Coffee,96,4.90,470.40
+2026-10-06,Main Street,Sourdough Loaf,Bread,30,7.50,225.00
+2026-10-06,Main Street,Butter Croissant,Pastry,57,3.20,182.40
+2026-10-06,Main Street,Almond Croissant,Pastry,26,3.90,101.40
+2026-10-06,Main Street,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-06,Main Street,Blueberry Muffin,Pastry,28,3.20,89.60
+2026-10-06,Main Street,Cappuccino,Coffee,79,3.80,300.20
+2026-10-06,Main Street,Oat Latte,Coffee,47,4.40,206.80
+2026-10-06,Main Street,Pumpkin Spice Latte,Coffee,24,4.90,117.60
+2026-10-06,Harbor,Sourdough Loaf,Bread,25,7.50,187.50
+2026-10-06,Harbor,Butter Croissant,Pastry,52,3.20,166.40
+2026-10-06,Harbor,Almond Croissant,Pastry,23,3.90,89.70
+2026-10-06,Harbor,Cinnamon Bun,Pastry,32,3.60,115.20
+2026-10-06,Harbor,Blueberry Muffin,Pastry,18,3.20,57.60
+2026-10-06,Harbor,Cappuccino,Coffee,60,3.80,228.00
+2026-10-06,Harbor,Oat Latte,Coffee,37,4.40,162.80
+2026-10-06,Harbor,Pumpkin Spice Latte,Coffee,19,4.90,93.10
+2026-10-06,Station,Sourdough Loaf,Bread,28,7.50,210.00
+2026-10-06,Station,Butter Croissant,Pastry,51,3.20,163.20
+2026-10-06,Station,Almond Croissant,Pastry,27,3.90,105.30
+2026-10-06,Station,Cinnamon Bun,Pastry,31,3.60,111.60
+2026-10-06,Station,Blueberry Muffin,Pastry,19,3.20,60.80
+2026-10-06,Station,Cappuccino,Coffee,51,3.80,193.80
+2026-10-06,Station,Oat Latte,Coffee,28,4.40,123.20
+2026-10-06,Station,Pumpkin Spice Latte,Coffee,86,4.90,421.40
+2026-10-07,Main Street,Sourdough Loaf,Bread,28,7.50,210.00
+2026-10-07,Main Street,Butter Croissant,Pastry,63,3.20,201.60
+2026-10-07,Main Street,Almond Croissant,Pastry,26,3.90,101.40
+2026-10-07,Main Street,Cinnamon Bun,Pastry,38,3.60,136.80
+2026-10-07,Main Street,Blueberry Muffin,Pastry,26,3.20,83.20
+2026-10-07,Main Street,Cappuccino,Coffee,76,3.80,288.80
+2026-10-07,Main Street,Oat Latte,Coffee,51,4.40,224.40
+2026-10-07,Main Street,Pumpkin Spice Latte,Coffee,19,4.90,93.10
+2026-10-07,Harbor,Sourdough Loaf,Bread,22,7.50,165.00
+2026-10-07,Harbor,Butter Croissant,Pastry,42,3.20,134.40
+2026-10-07,Harbor,Almond Croissant,Pastry,23,3.90,89.70
+2026-10-07,Harbor,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-07,Harbor,Blueberry Muffin,Pastry,23,3.20,73.60
+2026-10-07,Harbor,Cappuccino,Coffee,55,3.80,209.00
+2026-10-07,Harbor,Oat Latte,Coffee,37,4.40,162.80
+2026-10-07,Harbor,Pumpkin Spice Latte,Coffee,18,4.90,88.20
+2026-10-07,Station,Sourdough Loaf,Bread,26,7.50,195.00
+2026-10-07,Station,Butter Croissant,Pastry,50,3.20,160.00
+2026-10-07,Station,Almond Croissant,Pastry,31,3.90,120.90
+2026-10-07,Station,Cinnamon Bun,Pastry,29,3.60,104.40
+2026-10-07,Station,Blueberry Muffin,Pastry,24,3.20,76.80
+2026-10-07,Station,Cappuccino,Coffee,56,3.80,212.80
+2026-10-07,Station,Oat Latte,Coffee,34,4.40,149.60
+2026-10-07,Station,Pumpkin Spice Latte,Coffee,95,4.90,465.50
+2026-10-08,Main Street,Sourdough Loaf,Bread,32,7.50,240.00
+2026-10-08,Main Street,Butter Croissant,Pastry,48,3.20,153.60
+2026-10-08,Main Street,Almond Croissant,Pastry,29,3.90,113.10
+2026-10-08,Main Street,Cinnamon Bun,Pastry,36,3.60,129.60
+2026-10-08,Main Street,Blueberry Muffin,Pastry,22,3.20,70.40
+2026-10-08,Main Street,Cappuccino,Coffee,60,3.80,228.00
+2026-10-08,Main Street,Oat Latte,Coffee,41,4.40,180.40
+2026-10-08,Main Street,Pumpkin Spice Latte,Coffee,22,4.90,107.80
+2026-10-08,Harbor,Sourdough Loaf,Bread,25,7.50,187.50
+2026-10-08,Harbor,Butter Croissant,Pastry,51,3.20,163.20
+2026-10-08,Harbor,Almond Croissant,Pastry,26,3.90,101.40
+2026-10-08,Harbor,Cinnamon Bun,Pastry,33,3.60,118.80
+2026-10-08,Harbor,Blueberry Muffin,Pastry,19,3.20,60.80
+2026-10-08,Harbor,Cappuccino,Coffee,60,3.80,228.00
+2026-10-08,Harbor,Oat Latte,Coffee,33,4.40,145.20
+2026-10-08,Harbor,Pumpkin Spice Latte,Coffee,17,4.90,83.30
+2026-10-08,Station,Sourdough Loaf,Bread,30,7.50,225.00
+2026-10-08,Station,Butter Croissant,Pastry,55,3.20,176.00
+2026-10-08,Station,Almond Croissant,Pastry,27,3.90,105.30
+2026-10-08,Station,Cinnamon Bun,Pastry,27,3.60,97.20
+2026-10-08,Station,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-08,Station,Cappuccino,Coffee,57,3.80,216.60
+2026-10-08,Station,Oat Latte,Coffee,36,4.40,158.40
+2026-10-08,Station,Pumpkin Spice Latte,Coffee,87,4.90,426.30
+2026-10-09,Main Street,Sourdough Loaf,Bread,26,7.50,195.00
+2026-10-09,Main Street,Butter Croissant,Pastry,62,3.20,198.40
+2026-10-09,Main Street,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-09,Main Street,Cinnamon Bun,Pastry,40,3.60,144.00
+2026-10-09,Main Street,Blueberry Muffin,Pastry,26,3.20,83.20
+2026-10-09,Main Street,Cappuccino,Coffee,75,3.80,285.00
+2026-10-09,Main Street,Oat Latte,Coffee,48,4.40,211.20
+2026-10-09,Main Street,Pumpkin Spice Latte,Coffee,21,4.90,102.90
+2026-10-09,Harbor,Sourdough Loaf,Bread,22,7.50,165.00
+2026-10-09,Harbor,Butter Croissant,Pastry,42,3.20,134.40
+2026-10-09,Harbor,Almond Croissant,Pastry,24,3.90,93.60
+2026-10-09,Harbor,Cinnamon Bun,Pastry,33,3.60,118.80
+2026-10-09,Harbor,Blueberry Muffin,Pastry,21,3.20,67.20
+2026-10-09,Harbor,Cappuccino,Coffee,67,3.80,254.60
+2026-10-09,Harbor,Oat Latte,Coffee,36,4.40,158.40
+2026-10-09,Harbor,Pumpkin Spice Latte,Coffee,20,4.90,98.00
+2026-10-09,Station,Sourdough Loaf,Bread,24,7.50,180.00
+2026-10-09,Station,Butter Croissant,Pastry,57,3.20,182.40
+2026-10-09,Station,Almond Croissant,Pastry,29,3.90,113.10
+2026-10-09,Station,Cinnamon Bun,Pastry,32,3.60,115.20
+2026-10-09,Station,Blueberry Muffin,Pastry,26,3.20,83.20
+2026-10-09,Station,Cappuccino,Coffee,44,3.80,167.20
+2026-10-09,Station,Oat Latte,Coffee,32,4.40,140.80
+2026-10-09,Station,Pumpkin Spice Latte,Coffee,94,4.90,460.60
+2026-10-10,Main Street,Sourdough Loaf,Bread,39,7.50,292.50
+2026-10-10,Main Street,Butter Croissant,Pastry,80,3.20,256.00
+2026-10-10,Main Street,Almond Croissant,Pastry,46,3.90,179.40
+2026-10-10,Main Street,Cinnamon Bun,Pastry,46,3.60,165.60
+2026-10-10,Main Street,Blueberry Muffin,Pastry,37,3.20,118.40
+2026-10-10,Main Street,Cappuccino,Coffee,81,3.80,307.80
+2026-10-10,Main Street,Oat Latte,Coffee,57,4.40,250.80
+2026-10-10,Main Street,Pumpkin Spice Latte,Coffee,34,4.90,166.60
+2026-10-10,Harbor,Sourdough Loaf,Bread,34,7.50,255.00
+2026-10-10,Harbor,Butter Croissant,Pastry,60,3.20,192.00
+2026-10-10,Harbor,Almond Croissant,Pastry,39,3.90,152.10
+2026-10-10,Harbor,Cinnamon Bun,Pastry,39,3.60,140.40
+2026-10-10,Harbor,Blueberry Muffin,Pastry,30,3.20,96.00
+2026-10-10,Harbor,Cappuccino,Coffee,84,3.80,319.20
+2026-10-10,Harbor,Oat Latte,Coffee,45,4.40,198.00
+2026-10-10,Harbor,Pumpkin Spice Latte,Coffee,26,4.90,127.40
+2026-10-10,Station,Sourdough Loaf,Bread,24,7.50,180.00
+2026-10-10,Station,Butter Croissant,Pastry,42,3.20,134.40
+2026-10-10,Station,Almond Croissant,Pastry,19,3.90,74.10
+2026-10-10,Station,Cinnamon Bun,Pastry,23,3.60,82.80
+2026-10-10,Station,Blueberry Muffin,Pastry,19,3.20,60.80
+2026-10-10,Station,Cappuccino,Coffee,42,3.80,159.60
+2026-10-10,Station,Oat Latte,Coffee,28,4.40,123.20
+2026-10-10,Station,Pumpkin Spice Latte,Coffee,65,4.90,318.50
+2026-10-11,Main Street,Sourdough Loaf,Bread,36,7.50,270.00
+2026-10-11,Main Street,Butter Croissant,Pastry,63,3.20,201.60
+2026-10-11,Main Street,Almond Croissant,Pastry,38,3.90,148.20
+2026-10-11,Main Street,Cinnamon Bun,Pastry,45,3.60,162.00
+2026-10-11,Main Street,Blueberry Muffin,Pastry,31,3.20,99.20
+2026-10-11,Main Street,Cappuccino,Coffee,84,3.80,319.20
+2026-10-11,Main Street,Oat Latte,Coffee,55,4.40,242.00
+2026-10-11,Main Street,Pumpkin Spice Latte,Coffee,29,4.90,142.10
+2026-10-11,Harbor,Sourdough Loaf,Bread,35,7.50,262.50
+2026-10-11,Harbor,Butter Croissant,Pastry,61,3.20,195.20
+2026-10-11,Harbor,Almond Croissant,Pastry,30,3.90,117.00
+2026-10-11,Harbor,Cinnamon Bun,Pastry,38,3.60,136.80
+2026-10-11,Harbor,Blueberry Muffin,Pastry,25,3.20,80.00
+2026-10-11,Harbor,Cappuccino,Coffee,83,3.80,315.40
+2026-10-11,Harbor,Oat Latte,Coffee,49,4.40,215.60
+2026-10-11,Harbor,Pumpkin Spice Latte,Coffee,24,4.90,117.60
+2026-10-11,Station,Sourdough Loaf,Bread,20,7.50,150.00
+2026-10-11,Station,Butter Croissant,Pastry,38,3.20,121.60
+2026-10-11,Station,Almond Croissant,Pastry,19,3.90,74.10
+2026-10-11,Station,Cinnamon Bun,Pastry,28,3.60,100.80
+2026-10-11,Station,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-11,Station,Cappuccino,Coffee,46,3.80,174.80
+2026-10-11,Station,Oat Latte,Coffee,26,4.40,114.40
+2026-10-11,Station,Pumpkin Spice Latte,Coffee,62,4.90,303.80
+2026-10-12,Main Street,Sourdough Loaf,Bread,29,7.50,217.50
+2026-10-12,Main Street,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-12,Main Street,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-12,Main Street,Cinnamon Bun,Pastry,35,3.60,126.00
+2026-10-12,Main Street,Blueberry Muffin,Pastry,22,3.20,70.40
+2026-10-12,Main Street,Cappuccino,Coffee,69,3.80,262.20
+2026-10-12,Main Street,Oat Latte,Coffee,44,4.40,193.60
+2026-10-12,Main Street,Pumpkin Spice Latte,Coffee,22,4.90,107.80
+2026-10-12,Harbor,Sourdough Loaf,Bread,22,7.50,165.00
+2026-10-12,Harbor,Butter Croissant,Pastry,43,3.20,137.60
+2026-10-12,Harbor,Almond Croissant,Pastry,24,3.90,93.60
+2026-10-12,Harbor,Cinnamon Bun,Pastry,31,3.60,111.60
+2026-10-12,Harbor,Blueberry Muffin,Pastry,22,3.20,70.40
+2026-10-12,Harbor,Cappuccino,Coffee,54,3.80,205.20
+2026-10-12,Harbor,Oat Latte,Coffee,34,4.40,149.60
+2026-10-12,Harbor,Pumpkin Spice Latte,Coffee,18,4.90,88.20
+2026-10-12,Station,Sourdough Loaf,Bread,31,7.50,232.50
+2026-10-12,Station,Butter Croissant,Pastry,47,3.20,150.40
+2026-10-12,Station,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-12,Station,Cinnamon Bun,Pastry,34,3.60,122.40
+2026-10-12,Station,Blueberry Muffin,Pastry,21,3.20,67.20
+2026-10-12,Station,Cappuccino,Coffee,48,3.80,182.40
+2026-10-12,Station,Oat Latte,Coffee,35,4.40,154.00
+2026-10-12,Station,Pumpkin Spice Latte,Coffee,95,4.90,465.50
+2026-10-13,Main Street,Sourdough Loaf,Bread,34,7.50,255.00
+2026-10-13,Main Street,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-13,Main Street,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-13,Main Street,Cinnamon Bun,Pastry,40,3.60,144.00
+2026-10-13,Main Street,Blueberry Muffin,Pastry,23,3.20,73.60
+2026-10-13,Main Street,Cappuccino,Coffee,66,3.80,250.80
+2026-10-13,Main Street,Oat Latte,Coffee,51,4.40,224.40
+2026-10-13,Main Street,Pumpkin Spice Latte,Coffee,25,4.90,122.50
+2026-10-13,Harbor,Sourdough Loaf,Bread,24,7.50,180.00
+2026-10-13,Harbor,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-13,Harbor,Almond Croissant,Pastry,25,3.90,97.50
+2026-10-13,Harbor,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-13,Harbor,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-13,Harbor,Cappuccino,Coffee,57,3.80,216.60
+2026-10-13,Harbor,Oat Latte,Coffee,42,4.40,184.80
+2026-10-13,Harbor,Pumpkin Spice Latte,Coffee,18,4.90,88.20
+2026-10-13,Station,Sourdough Loaf,Bread,24,7.50,180.00
+2026-10-13,Station,Butter Croissant,Pastry,50,3.20,160.00
+2026-10-13,Station,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-13,Station,Cinnamon Bun,Pastry,32,3.60,115.20
+2026-10-13,Station,Blueberry Muffin,Pastry,24,3.20,76.80
+2026-10-13,Station,Cappuccino,Coffee,51,3.80,193.80
+2026-10-13,Station,Oat Latte,Coffee,37,4.40,162.80
+2026-10-13,Station,Pumpkin Spice Latte,Coffee,85,4.90,416.50
+2026-10-14,Main Street,Sourdough Loaf,Bread,32,7.50,240.00
+2026-10-14,Main Street,Butter Croissant,Pastry,54,3.20,172.80
+2026-10-14,Main Street,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-14,Main Street,Cinnamon Bun,Pastry,37,3.60,133.20
+2026-10-14,Main Street,Blueberry Muffin,Pastry,27,3.20,86.40
+2026-10-14,Main Street,Cappuccino,Coffee,76,3.80,288.80
+2026-10-14,Main Street,Oat Latte,Coffee,44,4.40,193.60
+2026-10-14,Main Street,Pumpkin Spice Latte,Coffee,22,4.90,107.80
+2026-10-14,Harbor,Sourdough Loaf,Bread,27,7.50,202.50
+2026-10-14,Harbor,Butter Croissant,Pastry,43,3.20,137.60
+2026-10-14,Harbor,Almond Croissant,Pastry,27,3.90,105.30
+2026-10-14,Harbor,Cinnamon Bun,Pastry,32,3.60,115.20
+2026-10-14,Harbor,Blueberry Muffin,Pastry,23,3.20,73.60
+2026-10-14,Harbor,Cappuccino,Coffee,52,3.80,197.60
+2026-10-14,Harbor,Oat Latte,Coffee,44,4.40,193.60
+2026-10-14,Harbor,Pumpkin Spice Latte,Coffee,19,4.90,93.10
+2026-10-14,Station,Sourdough Loaf,Bread,26,7.50,195.00
+2026-10-14,Station,Butter Croissant,Pastry,50,3.20,160.00
+2026-10-14,Station,Almond Croissant,Pastry,30,3.90,117.00
+2026-10-14,Station,Cinnamon Bun,Pastry,33,3.60,118.80
+2026-10-14,Station,Blueberry Muffin,Pastry,23,3.20,73.60
+2026-10-14,Station,Cappuccino,Coffee,55,3.80,209.00
+2026-10-14,Station,Oat Latte,Coffee,31,4.40,136.40
+2026-10-14,Station,Pumpkin Spice Latte,Coffee,96,4.90,470.40
+2026-10-15,Main Street,Sourdough Loaf,Bread,27,7.50,202.50
+2026-10-15,Main Street,Butter Croissant,Pastry,62,3.20,198.40
+2026-10-15,Main Street,Almond Croissant,Pastry,29,3.90,113.10
+2026-10-15,Main Street,Cinnamon Bun,Pastry,38,3.60,136.80
+2026-10-15,Main Street,Blueberry Muffin,Pastry,25,3.20,80.00
+2026-10-15,Main Street,Cappuccino,Coffee,73,3.80,277.40
+2026-10-15,Main Street,Oat Latte,Coffee,48,4.40,211.20
+2026-10-15,Main Street,Pumpkin Spice Latte,Coffee,24,4.90,117.60
+2026-10-15,Harbor,Sourdough Loaf,Bread,23,7.50,172.50
+2026-10-15,Harbor,Butter Croissant,Pastry,41,3.20,131.20
+2026-10-15,Harbor,Almond Croissant,Pastry,24,3.90,93.60
+2026-10-15,Harbor,Cinnamon Bun,Pastry,32,3.60,115.20
+2026-10-15,Harbor,Blueberry Muffin,Pastry,23,3.20,73.60
+2026-10-15,Harbor,Cappuccino,Coffee,57,3.80,216.60
+2026-10-15,Harbor,Oat Latte,Coffee,34,4.40,149.60
+2026-10-15,Harbor,Pumpkin Spice Latte,Coffee,18,4.90,88.20
+2026-10-15,Station,Sourdough Loaf,Bread,31,7.50,232.50
+2026-10-15,Station,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-15,Station,Almond Croissant,Pastry,23,3.90,89.70
+2026-10-15,Station,Cinnamon Bun,Pastry,35,3.60,126.00
+2026-10-15,Station,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-15,Station,Cappuccino,Coffee,48,3.80,182.40
+2026-10-15,Station,Oat Latte,Coffee,37,4.40,162.80
+2026-10-15,Station,Pumpkin Spice Latte,Coffee,89,4.90,436.10
+2026-10-16,Main Street,Sourdough Loaf,Bread,32,7.50,240.00
+2026-10-16,Main Street,Butter Croissant,Pastry,55,3.20,176.00
+2026-10-16,Main Street,Almond Croissant,Pastry,29,3.90,113.10
+2026-10-16,Main Street,Cinnamon Bun,Pastry,35,3.60,126.00
+2026-10-16,Main Street,Blueberry Muffin,Pastry,26,3.20,83.20
+2026-10-16,Main Street,Cappuccino,Coffee,61,3.80,231.80
+2026-10-16,Main Street,Oat Latte,Coffee,40,4.40,176.00
+2026-10-16,Main Street,Pumpkin Spice Latte,Coffee,24,4.90,117.60
+2026-10-16,Harbor,Sourdough Loaf,Bread,27,7.50,202.50
+2026-10-16,Harbor,Butter Croissant,Pastry,47,3.20,150.40
+2026-10-16,Harbor,Almond Croissant,Pastry,29,3.90,113.10
+2026-10-16,Harbor,Cinnamon Bun,Pastry,27,3.60,97.20
+2026-10-16,Harbor,Blueberry Muffin,Pastry,19,3.20,60.80
+2026-10-16,Harbor,Cappuccino,Coffee,64,3.80,243.20
+2026-10-16,Harbor,Oat Latte,Coffee,41,4.40,180.40
+2026-10-16,Harbor,Pumpkin Spice Latte,Coffee,19,4.90,93.10
+2026-10-16,Station,Sourdough Loaf,Bread,28,7.50,210.00
+2026-10-16,Station,Butter Croissant,Pastry,54,3.20,172.80
+2026-10-16,Station,Almond Croissant,Pastry,28,3.90,109.20
+2026-10-16,Station,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-16,Station,Blueberry Muffin,Pastry,24,3.20,76.80
+2026-10-16,Station,Cappuccino,Coffee,46,3.80,174.80
+2026-10-16,Station,Oat Latte,Coffee,29,4.40,127.60
+2026-10-16,Station,Pumpkin Spice Latte,Coffee,76,4.90,372.40
+2026-10-17,Main Street,Sourdough Loaf,Bread,46,7.50,345.00
+2026-10-17,Main Street,Butter Croissant,Pastry,71,3.20,227.20
+2026-10-17,Main Street,Almond Croissant,Pastry,42,3.90,163.80
+2026-10-17,Main Street,Cinnamon Bun,Pastry,42,3.60,151.20
+2026-10-17,Main Street,Blueberry Muffin,Pastry,35,3.20,112.00
+2026-10-17,Main Street,Cappuccino,Coffee,94,3.80,357.20
+2026-10-17,Main Street,Oat Latte,Coffee,64,4.40,281.60
+2026-10-17,Main Street,Pumpkin Spice Latte,Coffee,29,4.90,142.10
+2026-10-17,Harbor,Sourdough Loaf,Bread,30,7.50,225.00
+2026-10-17,Harbor,Butter Croissant,Pastry,62,3.20,198.40
+2026-10-17,Harbor,Almond Croissant,Pastry,32,3.90,124.80
+2026-10-17,Harbor,Cinnamon Bun,Pastry,37,3.60,133.20
+2026-10-17,Harbor,Blueberry Muffin,Pastry,24,3.20,76.80
+2026-10-17,Harbor,Cappuccino,Coffee,84,3.80,319.20
+2026-10-17,Harbor,Oat Latte,Coffee,46,4.40,202.40
+2026-10-17,Harbor,Pumpkin Spice Latte,Coffee,22,4.90,107.80
+2026-10-17,Station,Sourdough Loaf,Bread,20,7.50,150.00
+2026-10-17,Station,Butter Croissant,Pastry,37,3.20,118.40
+2026-10-17,Station,Almond Croissant,Pastry,24,3.90,93.60
+2026-10-17,Station,Cinnamon Bun,Pastry,23,3.60,82.80
+2026-10-17,Station,Blueberry Muffin,Pastry,16,3.20,51.20
+2026-10-17,Station,Cappuccino,Coffee,43,3.80,163.40
+2026-10-17,Station,Oat Latte,Coffee,29,4.40,127.60
+2026-10-17,Station,Pumpkin Spice Latte,Coffee,71,4.90,347.90
+2026-10-18,Main Street,Sourdough Loaf,Bread,45,7.50,337.50
+2026-10-18,Main Street,Butter Croissant,Pastry,85,3.20,272.00
+2026-10-18,Main Street,Almond Croissant,Pastry,43,3.90,167.70
+2026-10-18,Main Street,Cinnamon Bun,Pastry,46,3.60,165.60
+2026-10-18,Main Street,Blueberry Muffin,Pastry,33,3.20,105.60
+2026-10-18,Main Street,Cappuccino,Coffee,93,3.80,353.40
+2026-10-18,Main Street,Oat Latte,Coffee,60,4.40,264.00
+2026-10-18,Main Street,Pumpkin Spice Latte,Coffee,32,4.90,156.80
+2026-10-18,Harbor,Sourdough Loaf,Bread,30,7.50,225.00
+2026-10-18,Harbor,Butter Croissant,Pastry,58,3.20,185.60
+2026-10-18,Harbor,Almond Croissant,Pastry,30,3.90,117.00
+2026-10-18,Harbor,Cinnamon Bun,Pastry,36,3.60,129.60
+2026-10-18,Harbor,Blueberry Muffin,Pastry,25,3.20,80.00
+2026-10-18,Harbor,Cappuccino,Coffee,77,3.80,292.60
+2026-10-18,Harbor,Oat Latte,Coffee,47,4.40,206.80
+2026-10-18,Harbor,Pumpkin Spice Latte,Coffee,27,4.90,132.30
+2026-10-18,Station,Sourdough Loaf,Bread,22,7.50,165.00
+2026-10-18,Station,Butter Croissant,Pastry,35,3.20,112.00
+2026-10-18,Station,Almond Croissant,Pastry,22,3.90,85.80
+2026-10-18,Station,Cinnamon Bun,Pastry,23,3.60,82.80
+2026-10-18,Station,Blueberry Muffin,Pastry,19,3.20,60.80
+2026-10-18,Station,Cappuccino,Coffee,41,3.80,155.80
+2026-10-18,Station,Oat Latte,Coffee,23,4.40,101.20
+2026-10-18,Station,Pumpkin Spice Latte,Coffee,63,4.90,308.70
+2026-10-19,Main Street,Sourdough Loaf,Bread,26,7.50,195.00
+2026-10-19,Main Street,Butter Croissant,Pastry,47,3.20,150.40
+2026-10-19,Main Street,Almond Croissant,Pastry,31,3.90,120.90
+2026-10-19,Main Street,Cinnamon Bun,Pastry,39,3.60,140.40
+2026-10-19,Main Street,Blueberry Muffin,Pastry,29,3.20,92.80
+2026-10-19,Main Street,Cappuccino,Coffee,68,3.80,258.40
+2026-10-19,Main Street,Oat Latte,Coffee,49,4.40,215.60
+2026-10-19,Main Street,Pumpkin Spice Latte,Coffee,20,4.90,98.00
+2026-10-19,Harbor,Sourdough Loaf,Bread,26,7.50,195.00
+2026-10-19,Harbor,Butter Croissant,Pastry,46,3.20,147.20
+2026-10-19,Harbor,Almond Croissant,Pastry,29,3.90,113.10
+2026-10-19,Harbor,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-19,Harbor,Blueberry Muffin,Pastry,18,3.20,57.60
+2026-10-19,Harbor,Cappuccino,Coffee,55,3.80,209.00
+2026-10-19,Harbor,Oat Latte,Coffee,36,4.40,158.40
+2026-10-19,Harbor,Pumpkin Spice Latte,Coffee,18,4.90,88.20
+2026-10-19,Station,Sourdough Loaf,Bread,29,7.50,217.50
+2026-10-19,Station,Butter Croissant,Pastry,45,3.20,144.00
+2026-10-19,Station,Almond Croissant,Pastry,30,3.90,117.00
+2026-10-19,Station,Cinnamon Bun,Pastry,29,3.60,104.40
+2026-10-19,Station,Blueberry Muffin,Pastry,24,3.20,76.80
+2026-10-19,Station,Cappuccino,Coffee,44,3.80,167.20
+2026-10-19,Station,Oat Latte,Coffee,29,4.40,127.60
+2026-10-19,Station,Pumpkin Spice Latte,Coffee,73,4.90,357.70
+2026-10-20,Main Street,Sourdough Loaf,Bread,27,7.50,202.50
+2026-10-20,Main Street,Butter Croissant,Pastry,49,3.20,156.80
+2026-10-20,Main Street,Almond Croissant,Pastry,26,3.90,101.40
+2026-10-20,Main Street,Cinnamon Bun,Pastry,30,3.60,108.00
+2026-10-20,Main Street,Blueberry Muffin,Pastry,25,3.20,80.00
+2026-10-20,Main Street,Cappuccino,Coffee,64,3.80,243.20
+2026-10-20,Main Street,Oat Latte,Coffee,44,4.40,193.60
+2026-10-20,Main Street,Pumpkin Spice Latte,Coffee,19,4.90,93.10
+2026-10-20,Harbor,Sourdough Loaf,Bread,25,7.50,187.50
+2026-10-20,Harbor,Butter Croissant,Pastry,43,3.20,137.60
+2026-10-20,Harbor,Almond Croissant,Pastry,26,3.90,101.40
+2026-10-20,Harbor,Cinnamon Bun,Pastry,34,3.60,122.40
+2026-10-20,Harbor,Blueberry Muffin,Pastry,21,3.20,67.20
+2026-10-20,Harbor,Cappuccino,Coffee,67,3.80,254.60
+2026-10-20,Harbor,Oat Latte,Coffee,34,4.40,149.60
+2026-10-20,Harbor,Pumpkin Spice Latte,Coffee,18,4.90,88.20
+2026-10-20,Station,Sourdough Loaf,Bread,29,7.50,217.50
+2026-10-20,Station,Butter Croissant,Pastry,44,3.20,140.80
+2026-10-20,Station,Almond Croissant,Pastry,31,3.90,120.90
+2026-10-20,Station,Cinnamon Bun,Pastry,36,3.60,129.60
+2026-10-20,Station,Blueberry Muffin,Pastry,24,3.20,76.80
+2026-10-20,Station,Cappuccino,Coffee,56,3.80,212.80
+2026-10-20,Station,Oat Latte,Coffee,29,4.40,127.60
+2026-10-20,Station,Pumpkin Spice Latte,Coffee,88,4.90,431.20
+2026-10-21,Main Street,Sourdough Loaf,Bread,29,7.50,217.50
+2026-10-21,Main Street,Butter Croissant,Pastry,58,3.20,185.60
+2026-10-21,Main Street,Almond Croissant,Pastry,30,3.90,117.00
+2026-10-21,Main Street,Cinnamon Bun,Pastry,35,3.60,126.00
+2026-10-21,Main Street,Blueberry Muffin,Pastry,26,3.20,83.20
+2026-10-21,Main Street,Cappuccino,Coffee,67,3.80,254.60
+2026-10-21,Main Street,Oat Latte,Coffee,42,4.40,184.80
+2026-10-21,Main Street,Pumpkin Spice Latte,Coffee,20,4.90,98.00
+2026-10-21,Harbor,Sourdough Loaf,Bread,27,7.50,202.50
+2026-10-21,Harbor,Butter Croissant,Pastry,51,3.20,163.20
+2026-10-21,Harbor,Almond Croissant,Pastry,24,3.90,93.60
+2026-10-21,Harbor,Cinnamon Bun,Pastry,26,3.60,93.60
+2026-10-21,Harbor,Blueberry Muffin,Pastry,20,3.20,64.00
+2026-10-21,Harbor,Cappuccino,Coffee,61,3.80,231.80
+2026-10-21,Harbor,Oat Latte,Coffee,41,4.40,180.40
+2026-10-21,Harbor,Pumpkin Spice Latte,Coffee,17,4.90,83.30
+2026-10-21,Station,Sourdough Loaf,Bread,30,7.50,225.00
+2026-10-21,Station,Butter Croissant,Pastry,43,3.20,137.60
+2026-10-21,Station,Almond Croissant,Pastry,31,3.90,120.90
+2026-10-21,Station,Cinnamon Bun,Pastry,28,3.60,100.80
+2026-10-21,Station,Blueberry Muffin,Pastry,23,3.20,73.60
+2026-10-21,Station,Cappuccino,Coffee,45,3.80,171.00
+2026-10-21,Station,Oat Latte,Coffee,32,4.40,140.80
+2026-10-21,Station,Pumpkin Spice Latte,Coffee,79,4.90,387.10

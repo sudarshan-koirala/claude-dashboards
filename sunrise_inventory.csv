@@ -1,0 +1,25 @@
+location,product,category,stock_on_hand,reorder_level,unit,last_counted
+Main Street,Sourdough Loaf,Bread,86,20,pieces,2026-10-14
+Main Street,Butter Croissant,Pastry,28,20,pieces,2026-10-14
+Main Street,Almond Croissant,Pastry,31,20,pieces,2026-10-14
+Main Street,Cinnamon Bun,Pastry,49,20,pieces,2026-10-14
+Main Street,Blueberry Muffin,Pastry,63,20,pieces,2026-10-14
+Main Street,Cappuccino,Coffee,39,20,portions,2026-10-14
+Main Street,Oat Latte,Coffee,23,20,portions,2026-10-14
+Main Street,Pumpkin Spice Latte,Coffee,91,60,portions,2026-10-14
+Harbor,Sourdough Loaf,Bread,60,20,pieces,2026-10-14
+Harbor,Butter Croissant,Pastry,73,20,pieces,2026-10-14
+Harbor,Almond Croissant,Pastry,0,20,pieces,2026-10-14
+Harbor,Cinnamon Bun,Pastry,44,20,pieces,2026-10-14
+Harbor,Blueberry Muffin,Pastry,30,20,pieces,2026-10-14
+Harbor,Cappuccino,Coffee,51,20,portions,2026-10-14
+Harbor,Oat Latte,Coffee,46,20,portions,2026-10-14
+Harbor,Pumpkin Spice Latte,Coffee,106,60,portions,2026-10-14
+Station,Sourdough Loaf,Bread,89,20,pieces,2026-10-14
+Station,Butter Croissant,Pastry,46,20,pieces,2026-10-14
+Station,Almond Croissant,Pastry,75,20,pieces,2026-10-14
+Station,Cinnamon Bun,Pastry,65,20,pieces,2026-10-14
+Station,Blueberry Muffin,Pastry,68,20,pieces,2026-10-14
+Station,Cappuccino,Coffee,77,20,portions,2026-10-14
+Station,Oat Latte,Coffee,82,20,portions,2026-10-14
+Station,Pumpkin Spice Latte,Coffee,35,60,portions,2026-10-14
